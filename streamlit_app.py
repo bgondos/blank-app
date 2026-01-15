@@ -5,7 +5,7 @@ import time
 import paho.mqtt.client as mqtt
 
 # ---------------- CONFIG ----------------
-MQTT_BROKER = "localhost"
+MQTT_BROKER = "172.161.52.49"
 MQTT_PORT = 1883
 MQTT_TOPIC = "serre/data"
 
